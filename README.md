@@ -37,7 +37,6 @@ This project demonstrates an end-to-end web scraping and data preprocessing work
 .
 ├── scraper.ipynb          # Web scraping workflow
 ├── cleaner.ipynb          # Data cleaning and preprocessing
-├── requirements.txt       # Python dependencies
 ├── LICENSE                # MIT License
 └── README.md
 ```
@@ -53,13 +52,6 @@ git clone https://github.com/<your-username>/<repository-name>.git
 cd <repository-name>
 ```
 
-Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## ▶️ Usage
 

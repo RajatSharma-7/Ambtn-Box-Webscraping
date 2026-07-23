@@ -43,21 +43,13 @@ This project demonstrates an end-to-end web scraping and data preprocessing work
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
-```
 
 
 ## ▶️ Usage
 
-1. Open `scraper.ipynb`
+1. Open `AmbitionBox_Data_Webscraping.ipynb`
 2. Run all cells to collect the raw data.
-3. Open `cleaner.ipynb`
+3. Open `Cleaning_Fetched_Data.ipynb`
 4. Run all cells to clean and preprocess the data.
 5. Export the processed data for further analysis.
 
@@ -96,6 +88,6 @@ See the `LICENSE` file for details.
 
 ## 👨‍💻 Author
 
-**Ronnie**
+**Rajat Sharma**
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
